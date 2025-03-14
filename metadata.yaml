@@ -1,0 +1,48 @@
+_repo: Our-search-for-a-wilderness-b-An-account-of-two-ornithological-expeditions-to-Venezuela-and-t__75453
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Niles, Blair
+    alias: Beebe, Mary Blair
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '58002'
+    url: http://www.gutenberg.org/2009/agents/58002
+    wikipedia: https://en.wikipedia.org/wiki/Blair_Niles
+  - agent_name: Beebe, William
+    aliases:
+    - Beebe, C. William (Charles William)
+    - Beebe, Charles William
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '31644'
+    url: http://www.gutenberg.org/2009/agents/31644
+    wikipedia: https://en.wikipedia.org/wiki/William_Beebe
+description: Illustrated with photographs from life taken by the authors.
+gutenberg_issued: '2025-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75453'
+  lccn: '10011884'
+language: en
+pgterms:marc904: https://archive.org/details/oursearchforwild00nile/page/n7/mode/2up
+pgterms:marc905: 20211110070040beebe
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bHenry Holt & Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- South America'
+- !lcsh 'Guyana -- Description and travel'
+- !lcsh 'Venezuela -- Description and travel'
+- !lcsh 'Birds -- South America'
+- !lcc 'QH'
+- GITenberg
+title: 'Our search for a wilderness : $b An account of two ornithological expeditions
+  to Venezuela and to British Guiana'
+url: http://www.gutenberg.org/ebooks/75453
