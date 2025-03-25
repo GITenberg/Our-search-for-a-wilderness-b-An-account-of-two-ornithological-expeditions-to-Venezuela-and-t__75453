@@ -1,5 +1,8 @@
 _repo: Our-search-for-a-wilderness-b-An-account-of-two-ornithological-expeditions-to-Venezuela-and-t__75453
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75453-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Niles, Blair
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31644
     wikipedia: https://en.wikipedia.org/wiki/William_Beebe
 description: Illustrated with photographs from life taken by the authors.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75453#Our-search-for-a-wilderness-b-An-account-of-two-ornithological-expeditions-to-Venezuela-and-t_
 gutenberg_issued: '2025-02-23'
 gutenberg_type: Text
 identifiers:
